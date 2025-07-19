@@ -7,6 +7,7 @@ class CorgeaCli < Formula
   sha256 "1ff18b9c244093528a28377c15ab27f5c1d07b2e9b00912015daac634ed99009"
 
   depends_on "python@3.11"
+  depends_on "rust" => :build
 
   def install
     virtualenv_install_with_resources
