@@ -27,4 +27,4 @@ corgea --help
 
 - **Version**: 1.6.3
 - **Python**: Requires Python 3.11
-- **Homepage**: https://pypi.org/project/corgea-cli/ 
+- **Homepage**: https://pypi.org/project/corgea-cli/
