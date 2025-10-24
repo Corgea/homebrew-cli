@@ -25,6 +25,6 @@ corgea --help
 
 ## Formula Details
 
-- **Version**: 1.7.0
+- **Version**: 1.7.1
 - **Python**: Requires Python 3.11
 - **Homepage**: https://pypi.org/project/corgea-cli/
