@@ -3,8 +3,8 @@ class CorgeaCli < Formula
 
   desc "CLI tool for corgea"
   homepage "https://pypi.org/project/corgea-cli/"
-  url "https://files.pythonhosted.org/packages/11/a4/66aecfc2eb53d61d0231ee633a21a9c1f5d69feaa3e10ce46b33fca4f9e4/corgea_cli-1.14.1.tar.gz"
-  sha256 "d81af286404b6dc6e08a2c840efa24000230ea871f7eca04185d01afbda208d8"
+  url "https://files.pythonhosted.org/packages/31/0d/89e4ef26cc981c848e3ad61d8a9945d1bcd093e1fd305f1083a1bfcf0ea7/corgea_cli-1.14.2.tar.gz"
+  sha256 "6972230463ff129d5cdb007832b438b710ed2f20b22efe008ecfc7078dd538aa"
 
   depends_on "python@3.11"
   depends_on "rust" => :build
